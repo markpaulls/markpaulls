@@ -1,7 +1,6 @@
-<h2>Marcos Laber | Developer </h2>
-<div>
 
-  <a href="https://marcoslaber.com.br/">Site</a>
+<div>
+<h2>Marcos Laber | Developer </h2>
   <p>Desenvolvedor Full Stack especializado em criar interfaces modernas, rápidas e focadas na experiência do usuário.</p>
 </div>
 
