@@ -2,6 +2,7 @@
 <div>
 
   <a href="https://marcoslaber.com.br/">Site</a>
+  <p>Desenvolvedor Full Stack especializado em criar interfaces modernas, rápidas e focadas na experiência do usuário.</p>
 </div>
 
 
