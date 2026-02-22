@@ -1,10 +1,11 @@
 ## Oi hihi eu sou a Marcos Laber um entusiasta de tecnologia e que ama programação!
+![](https://github-readme-stats.vercel.app/api?username=markpaulls&show_icons=true&theme=transparent)
 
 <div>
-  
-<img align="center" alt="M" height="120em"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent "> 
+  <a href="https://github.com/markpaulls"></a>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=markpaulls&show_icons=true&theme=dark#gh-dark-mode-only "/> 
 
-<img align="center" alt="M" height="120em"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent "> 
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=markpaulls&show_icons=true&theme=default#gh-light-mode-only "/> 
 
 </div>
 
