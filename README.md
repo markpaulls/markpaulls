@@ -1,10 +1,7 @@
-<h2>Marcos Laber |Developer</h2>
+<h2>Marcos Laber | Developer </h2>
 <div>
-  <a href="https://github.com/markpaulls"></a>
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=markpaulls&show_icons=true&theme=dark"/> 
-
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=markpaulls&show_icons=true&theme=dark "/> 
-
+  <a href="https://github.com/markpaulls">Github</a>
+  <a href="https://marcoslaber.com.br/">Site Live</a>
 </div>
 
 
