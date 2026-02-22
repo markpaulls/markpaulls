@@ -1,7 +1,7 @@
 <h2>Marcos Laber | Developer </h2>
 <div>
-  <a href="https://github.com/markpaulls">Github</a>
-  <a href="https://marcoslaber.com.br/">Site Live</a>
+
+  <a href="https://marcoslaber.com.br/">Site</a>
 </div>
 
 
