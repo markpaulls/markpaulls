@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**markpaulls/markpaulls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ <a href="https://github.com/markpaulls/"></a> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markpaulls&hide=contribs&commits=30&theme=dark,prs" />!
+   <img height="180em" src="https://github-readme-stats.vercel.app/top-langs" />!
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+Olá 👋
+
+- 🔭 Atualmente estou trabalhando como freelancer em Marcos Laber | Developer 
+- 📚 Atualmente estou aprendendo react e javascript.
+- 👯 Estou procurando colaborações em devclub
+- 🤔 Preciso de ajuda com novos projetos.
+- 📫 Como me contatar: contato@marcoslaber.com.br 
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Ama filmes e séries!
+
