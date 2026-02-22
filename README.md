@@ -1,11 +1,9 @@
-## Oi hihi eu sou a Marcos Laber um entusiasta de tecnologia e que ama programação!
-![](https://github-readme-stats.vercel.app/api?username=markpaulls&show_icons=true&theme=transparent)
-
+<h2>Marcos Laber |Developer</h2>
 <div>
   <a href="https://github.com/markpaulls"></a>
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=markpaulls&show_icons=true&theme=dark#gh-dark-mode-only "/> 
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=markpaulls&show_icons=true&theme=dark"/> 
 
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=markpaulls&show_icons=true&theme=default#gh-light-mode-only "/> 
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=markpaulls&show_icons=true&theme=dark "/> 
 
 </div>
 
