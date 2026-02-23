@@ -31,13 +31,31 @@
 </div>
 
 
-Olá 👋
 
-- 🔭 Atualmente estou trabalhando como freelancer em Marcos Laber | Developer 
-- 📚 Atualmente estou aprendendo react e javascript.
-- 👯 Estou procurando colaborações em devclub
-- 🤔 Preciso de ajuda com novos projetos.
-- 📫 Como me contatar: contato@marcoslaber.com.br 
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Ama filmes e séries!
+Eu sou o Marcos Laber
+
+🎓 Estudante de **Programação**  
+💻 Desenvolvedor em busca de oportunidade **Júnior** na área de Desenvolvimento          
+🚀 Conhecimentos em **HTML, CSS, JavaScript, React, Node.js**  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js,  
+- **Banco de Dados:** MongoDB , Mongoose
+- **Outros:** Git, GitHub, CloudFlare, Meta Business, Google Analitcs (Basic) 
+
+---
+
+## 📫 Como me encontrar
+
+
+- LinkedIn: https://www.linkedin.com/in/marcos-laiber/
+- Email: **contato@marcoslaber.com.br**  
+
+---
+💜 Gratidão!  
+
 
