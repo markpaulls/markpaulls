@@ -42,7 +42,7 @@
 - **Backend:** Node.js.
 - **Banco de Dados:** MongoDB , Mongoose.
 - **Ferramentas:** GitBash, GitHub, CloudFlare, Meta Business,
-Google Analitcs (Basic), Google Tags Manager(Basic).
+Google Analytics (Basic), Google Tags Manager(Basic).
 
 
 
