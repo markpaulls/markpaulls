@@ -42,10 +42,11 @@ Eu sou o Marcos Laber
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js,  
-- **Banco de Dados:** MongoDB , Mongoose
-- **Outros:** Git, GitHub, CloudFlare, Meta Business, Google Analitcs (Basic) 
+- **Frontend:** HTML, CSS, JavaScript, React.
+- **Backend:** Node.js.
+- **Banco de Dados:** MongoDB , Mongoose.
+- **Ferramentas:** GitBash, GitHub, CloudFlare, Meta Business,
+Google Analitcs (Basic), Google Tags Manager(Basic).
 
 ---
 
