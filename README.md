@@ -15,7 +15,9 @@
    <img align="center" alt="Mongoose" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg ">
 
 </div>
+
  ##
+ 
 <div> 
   <a href="https://youtube.com/@marcoslaber?si=67br_JLgb8LlcjPF" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/marcos.laber" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,7 +34,7 @@
 💻 Desenvolvedor em busca de oportunidade **Júnior** na área de Desenvolvimento          
 🚀 Conhecimentos em **HTML, CSS, JavaScript, React, Node.js**  
 
----
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -42,7 +44,7 @@
 - **Ferramentas:** GitBash, GitHub, CloudFlare, Meta Business,
 Google Analitcs (Basic), Google Tags Manager(Basic).
 
----
+
 
 ## 📫 Como me encontrar
 
@@ -50,7 +52,6 @@ Google Analitcs (Basic), Google Tags Manager(Basic).
 - LinkedIn: https://www.linkedin.com/in/marcos-laiber/
 - Email: **contato@marcoslaber.com.br**  
 
----
 💜 Gratidão!  
 
 
