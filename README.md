@@ -15,8 +15,6 @@
    <img align="center" alt="Mongoose" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg ">
 
 </div>
-  
-  ##
  
 <div> 
   <a href="https://youtube.com/@marcoslaber?si=67br_JLgb8LlcjPF" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -29,10 +27,6 @@
   <a href="https://www.facebook.com/profile.php?id=61574168640130" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=laber.marcosps%40gmail.com" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" target="_blank"></a> 
 </div>
-
-
-
-Eu sou o Marcos Laber
 
 🎓 Estudante de **Programação**  
 💻 Desenvolvedor em busca de oportunidade **Júnior** na área de Desenvolvimento          
