@@ -51,6 +51,7 @@ Google Analytics (Basic), Google Tags Manager(Basic).
 
 - LinkedIn: https://www.linkedin.com/in/marcos-laiber/
 - Email: **contato@marcoslaber.com.br**  
+- Site: https://marcoslaber.com.br
 
 💜 Gratidão!  
 
